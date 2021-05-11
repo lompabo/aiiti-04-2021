@@ -3,7 +3,7 @@ title: AI in the Industry Tutorials (Anomaly Detection via Neural Models)
 author: michele.lombardi2@unibo.it
 ---
 
-# Missing Data in Time Series #
+# Anomaly Detection via Neural Models #
 
 This is one of a series of tutorials that are part of the "AI in the Industry" course at [University of Bologna](https://www.unibo.it/it). Each tutorial tackles a simplified industrial problem and aims at showing how similar problem can be tackled using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 
@@ -14,7 +14,7 @@ This tutorial in particular addresses anomaly detection problems using neural mo
 
 The tutorial is split over multiple (numbered) Jupyter notebooks. _The preferred way to access the tutorial is via Binder_, which enables running the code on a remote server:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lompabo/aiiti-03-2021/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lompabo/aiiti-04-2021/HEAD)
 
 Alternatively, it is possible to _inspect the notebooks in a static form_ (by just clicking on any `*.ipynb` file in this directory), or to _run the code locally_. Doing this will require to:
 
