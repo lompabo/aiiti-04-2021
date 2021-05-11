@@ -40,7 +40,7 @@ RUN pip install --no-cache-dir jupyterhub
 # Update the package manager and install a simple module. The RUN command
 # will execute a command on the container and then save a snapshot of the
 # results. The last of these snapshots will be the final image
-RUN apt-get update -y && apt-get install -y zip
+RUN apt-get update -y && apt-get install -y zip wget
 
 # Install additional Python packages
 RUN pip install --no-cache-dir pandas matplotlib sklearn ipympl \
